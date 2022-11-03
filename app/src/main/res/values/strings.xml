@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name" translatable="false">ASEE_SES</string>
+
+    <string name="title_activity_login">ASEE_SES</string>
+    <string name="title_activity_centers">Centros</string>
+    <string name="title_activity_appointments">Citas médicas</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_dni">DNI</string>
+    <string name="action_sign_in">Identificarse</string>
+    <string name="error_invalid_dni">El DNI no es válido</string>
+    <string name="error_incorrect_dni">El DNI indicado no existe</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="omit_sign_in">Ir a ver centros</string>
+    <string name="center_name">Centro de Salud de Valverde del Fresno</string>
+    <string name="adress_center">Av. del Ejemplo, S/N, Cáceres 10890</string>
+    <string name="city_center">Valverde del Fresno</string>
+    <string name="tlfno_center_cab">Teléfono del centro</string>
+    <string name="tlfno_center">927345423</string>
+    <string name="tlfno_urg_center_cab">Teléfono de urgencias</string>
+    <string name="tlfno_urg_center">927345467</string>
+    <string name="doctores_cab">Doctores</string>
+    <string name="name_doctor">Dr. José Olmos Martín</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="select_city">Ciudad: </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="desc_appointment_cab">Descripción:</string>
+    <string name="tlfno_appointment_cab">Tlfno Contacto:</string>
+    <string name="hora_appointment">13:30</string>
+    <string name="hora_appointment_cab">Hora:</string>
+    <string name="fecha_appointment">Lunes, 4 de Enero de 2018</string>
+    <string name="desc_appointment">Dolor de cabeza agudo</string>
+    <string name="mis_citas">Mis citas</string>
+    <string name="citas_especialistas">Citas con especialistas</string>
+    <string name="button_aplazar">Solicitar Aplazamiento</string>
+
+    <string name="solAplazamiento_appointment_cab">Aplazamiento: </string>
+    <string name="solAplazamiento_appointment_false">No solicitado</string>
+    <string name="solAplazamiento_appointment_true">Solicitado</string>
+
+    <string name="medfield_appointment_cab">Especialidad: </string>
+    <string name="medfield_appointment">Traumatología</string>
+
+    <string name="delete_alert">Eliminar cita</string>
+    <string name="delete_alert_message">¿Estás seguro de que deseas cancelar la cita?</string>
+    <string name="aplazar_alert">Aplazar cita</string>
+    <string name="aplazar_alert_message">¿Estás seguro de que deseas aplazar la cita?</string>
+
+    <string name="button_mostrar_map">Mostrar mapa</string>
+    <string name="button_ocultar_map">Ocultar mapa</string>
+    <string name="adress_center_cab">Dirección del centro: </string>
+    <string name="name_center_cab">Centro: </string>
+    <string name="city_center_cab">Localidad: </string>
+    <string name="doctor_appointment_cab">Doctor: </string>
+    <string name="doctor_appointment">Dr. Julían Gomez </string>
+
+    <string name="title_activity_add_appointments">Nueva cita</string>
+    <string name="time_and_date_string">Escoger día y hora</string>
+    <string name="desc_appointment_ej">p.e. Dolor de cabeza agudo</string>
+    <string name="no_date_set_string" translatable="false">YYYY-MM-DD</string>
+    <string name="no_time_set_string" translatable="false">HH:MM:SS</string>
+    <string name="choose_time_string">Escoger hora</string>
+    <string name="choose_date_string">Escoger día</string>
+    <string name="cancel_string">Cancelar</string>
+    <string name="reset_string">Resetear</string>
+    <string name="submit_string">Solicitar</string>
+    <string name="select_tlfno">Cambiar Número</string>
+    <string name="set_default_number">Establecer como número por defecto</string>
+    <string name="cambiar_string">Cambiar</string>
+    <string name="select_hour_string">Selecciona una hora</string>
+    <string name="select_date_first">Selecciona un día primero</string>
+    <string name="select_hour_first">Selecciona un hora primero</string>
+
+    <string name="nightmode">Modo noche</string>
+    <string name="nightmode_sum">Activa el modo noche</string>
+    <string name="tlfno_sum">Cambia el teléfono de contacto por defecto</string>ç
+    <string name="close_session">Cerrar sesión</string>
+    <string name="closing_session">Sesión cerrada</string>
+    <string name="init_session_first">No hay una sesión iniciada</string>
+    <string name="title_activity_edit_appointments">Editar cita</string>
+
+
+</resources>
