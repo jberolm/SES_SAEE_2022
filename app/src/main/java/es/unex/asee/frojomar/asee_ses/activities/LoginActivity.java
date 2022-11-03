@@ -42,7 +42,7 @@ import es.unex.asee.frojomar.asee_ses.repository.networking.NetworkUtils;
 /**
  * A login screen that offers login via email/password.
  */
-public class LoginActivity e
+public class LoginActivity extends NavDrawerActivity {
 
     /**
      * Regex to validate a NIF and NIE.
