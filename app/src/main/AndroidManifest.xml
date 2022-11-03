@@ -53,7 +53,7 @@
             android:exported="true"
             android:name=".activities.appointments.AddAppointmentActivity"
             android:label="@string/title_activity_add_appointments"
-            android:parentActivityName=".activities.appointments.AppointmentsActivity" >
+            android:parentActivityName=".activities.appointments.AppointmentsActivity" 
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
